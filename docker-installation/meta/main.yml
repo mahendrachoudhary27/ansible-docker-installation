@@ -1,0 +1,37 @@
+galaxy_info:
+  author: mahen27
+  description: docker-installation description
+  company:
+
+
+  icense:  license: "license (BSD, MIT)"
+
+  min_ansible_version: 2.1
+
+  platforms:
+   - name: RHEL
+     versions:
+     - 9
+   - name: Ubuntu
+     versions:
+     - all
+
+   galaxy_tags:
+     - docker
+     - container
+     - installation
+     - automation
+     - devops
+     - infrastructure
+     - management
+     - deployment
+     - linux
+     - ubuntu
+     - rhel
+     - redhat
+
+   dependencies:
+     - RHEL
+     - Ubunut
+
+
